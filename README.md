@@ -1,4 +1,4 @@
-# Solving moving block puzzle using different algorithms
+# Solving move block puzzle using different algorithms
 ### Methods used:
 1. Breadth-First-Search (BFS)
 2. Depth-First-Search (DFS)
